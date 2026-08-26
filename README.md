@@ -74,12 +74,14 @@ Certificate
 <div align="center">
 
 <img src="https://img.shields.io/github/followers/akshajkhetarpal?label=Followers&style=for-the-badge&logo=github&labelColor=161b22" />
+
 <img src="https://img.shields.io/github/stars/akshajkhetarpal?affiliations=OWNER&label=Stars&style=for-the-badge&logo=github&labelColor=161b22" />
 
 <br><br>
 
-<img src="https://img.shields.io/github/repos/akshajkhetarpal?label=Public%20Repos&style=for-the-badge&logo=github&labelColor=161b22" />
-<img src="https://img.shields.io/github/last-commit/akshajkhetarpal/akshajkhetarpal?label=Last%20Update&style=for-the-badge&logo=github&labelColor=161b22" />
+<a href="https://github.com/akshajkhetarpal?tab=repositories">
+<img src="https://img.shields.io/badge/Public%20Repositories-View%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 </div>
 
@@ -99,33 +101,13 @@ Certificate
 
 ---
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
 ## 🔥 Contribution Streak
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=akshajkhetarpal&theme=github-dark-blue&hide_border=true" width="95%" />
+<img src="https://streak-stats.demolab.com?user=akshajkhetarpal&theme=github-dark-blue&hide_border=true" width="70%" />
 
 </div>
-
-</td>
-
-<td width="50%" valign="top">
-
-## 🧠 Language Distribution
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshajkhetarpal&layout=donut&langs_count=8&theme=github_dark&hide_border=true" width="95%" />
-
-</div>
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -192,19 +174,19 @@ Worked with **PySpark** and large-scale recruitment datasets on supply-demand an
 
 ---
 
-## 📚 Repository Languages
-
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=akshajkhetarpal&theme=github_dark" width="70%" />
+## 📚 Repository Languages
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=akshajkhetarpal&theme=github_dark" width="75%" />
 
 </div>
 
 ---
 
-## 🔗 Connect
-
 <div align="center">
+
+## 🔗 Connect
 
 <a href="https://github.com/akshajkhetarpal">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -212,7 +194,7 @@ Worked with **PySpark** and large-scale recruitment datasets on supply-demand an
 
 </div>
 
----
+<br>
 
 <div align="center">
 
