@@ -186,25 +186,13 @@ Python OOP application for searching Asia Cup cricket statistics using CSV datas
 
 ---
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<div align="center">
 
 ## 📚 Repository Languages
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=akshajkhetarpal&theme=github_dark" width="100%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=akshajkhetarpal&theme=github_dark" width="70%" />
 
-</td>
-
-<td width="50%" valign="top">
-
-## ⏱️ Productive Time
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=akshajkhetarpal&theme=github_dark&utcOffset=5.5" width="100%" />
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
@@ -212,7 +200,7 @@ Python OOP application for searching Asia Cup cricket statistics using CSV datas
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akshajkhetarpal&theme=github_dark" width="95%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=akshajkhetarpal&theme=github-compact&hide_border=true&area=true&radius=8&custom_title=Contribution%20Activity" width="95%" />
 
 </div>
 
