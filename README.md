@@ -168,9 +168,19 @@ Worked with **PySpark** and large-scale recruitment datasets on supply-demand an
 
 <!-- REPOSITORIES:START -->
 
-<a href="https://github.com/akshajkhetarpal/coffee-quality-data-analysis"><img src="https://github-readme-stats.vercel.app/api/pin/?username=akshajkhetarpal&repo=coffee-quality-data-analysis&theme=github_dark&hide_border=true" width="48%" /></a>
+### [coffee-quality-data-analysis](https://github.com/AkshajKhetarpal/coffee-quality-data-analysis)
 
-<a href="https://github.com/akshajkhetarpal/Cricket-Analysis-Asia-Cup"><img src="https://github-readme-stats.vercel.app/api/pin/?username=akshajkhetarpal&repo=Cricket-Analysis-Asia-Cup&theme=github_dark&hide_border=true" width="48%" /></a>
+Python data analysis project using Pandas and Matplotlib to analyze coffee quality datasets.
+
+`Various` · ⭐ 0 · 🍴 0
+
+---
+
+### [Cricket-Analysis-Asia-Cup](https://github.com/AkshajKhetarpal/Cricket-Analysis-Asia-Cup)
+
+Python OOP application for searching Asia Cup cricket statistics using CSV datasets.
+
+`Python` · ⭐ 0 · 🍴 0
 
 <!-- REPOSITORIES:END -->
 
