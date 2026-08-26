@@ -16,7 +16,7 @@ jobs:
       - name: Checkout profile repository
         uses: actions/checkout@v4
 
-      - name: Generate repository cards
+      - name: Generate repository list
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
@@ -48,21 +48,41 @@ jobs:
           repos = [
               repo for repo in repos
               if not repo["fork"]
-              and repo["name"].lower() != profile_repo
               and not repo["archived"]
+              and repo["name"].lower() != profile_repo
           ]
 
           cards = []
 
           for repo in repos:
               name = repo["name"]
-              cards.append(
-                  f'<a href="https://github.com/{username}/{name}">'
-                  f'<img src="https://github-readme-stats.vercel.app/api/pin/?username={username}&repo={name}&theme=github_dark&hide_border=true" width="48%" />'
-                  f'</a>'
-              )
+              description = repo.get("description") or "No description provided."
+              url = repo["html_url"]
 
-          generated = "\n\n".join(cards)
+              description = description.replace("\n", " ").strip()
+
+              if len(description) > 180:
+                  description = description[:177] + "..."
+
+              language = repo.get("language") or "Various"
+
+              stars = repo.get("stargazers_count", 0)
+              forks = repo.get("forks_count", 0)
+
+              card = f"""### [{name}]({url})
+
+          {description}
+
+          ` {language} ` · ⭐ {stars} · 🍴 {forks}
+
+          """
+
+              cards.append(card)
+
+          generated = "\n".join(cards)
+
+          if not generated.strip():
+              generated = "_No public repositories yet._"
 
           with open("README.md", "r", encoding="utf-8") as f:
               readme = f.read()
@@ -77,7 +97,7 @@ jobs:
               start
               + "\n\n"
               + generated
-              + "\n\n"
+              + "\n"
               + end
           )
 
@@ -91,10 +111,16 @@ jobs:
               f.write(readme)
           PY
 
-      - name: Commit changes
+      - name: Commit updated repository section
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
           git add README.md
-          git diff --cached --quiet || git commit -m "Update repository cards"
-          git push
+
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "Update public repositories"
+            git push
+          fi
