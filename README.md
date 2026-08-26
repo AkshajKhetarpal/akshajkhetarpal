@@ -1,42 +1,20 @@
 <div align="center">
 
-<pre>
-█████████████████████████████████████████████████████████████████
-█████████████████████████████████████████████████████████████████
-█████████████████████████████████████████████████████████████████
-█████████████████████████████████████████████████████████████████
-█████████████████████████████████████████████████████████████████
-████████████████████████▓▒▒▓▓░▓▓▒▒▓██████████████████████████████
-███████████████████████▓▒░░▒░░▒▓▒▒▓▓▓▓███████████████████████████
-███████████████████████▓░▒▓▒▒▓▓█▓▓▓▓█████████████████████████████
-████████████████████████▓▒▒░░░▒▓▓▓▓▓█████████████████████████████
-█████████████████████████▓█▓▒▒▒▓▓██▓▓▒███████████████████████████
-████████████████████████▓▒▒█████████▓▓▓██████████████████████████
-███████████████▓▓▓▓▓▓▓▓▒░▒░░▒▓██████▓█████▓▓▓████████████████████
-███████████████▓▓▓▓▓▓▓▓▓░░▓█▓▓█▓████████▓▓▓▓▓▓▓▓█████████████████
-██████████████▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓██████████████
-████████████▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓██████████████
-███████████▓▒▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▓▓▓▓▓▓▓▓▓▓▓▓▓█████████████
-███████████▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓█▓▓▓▓▓▓░▒▓▓▓▓▓▓▓▓▓▓███████████████
-███████████▓▓▓▓▓▓█▓██▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓███████████████
-██████████▓▓▓▓▓▓▓▓███▓▓▓▓▓▓▓▓▓████▓▓▓▓▓▓▓▓▓█▓▓▓▓▓████████████████
-██████████▓▓▓▓▓▓▓███▓▓▓▓▓▓▓█▓▓██▓█▓▓▓██████▒░░░▒░▒▓▓█████████████
-█████████▓▓▓▓▓▓▓▓▓██▓████▓▓█▓███▓█▓▓▓████▓░░░░░░░░░▒█████████████
-██████████▒▒░░░░▒▓▓██████▓██▓█▒░░░░▓▓▓██▓░░░░▒██▓▓▓▓█████████████
-██████████░░░░░░░▓▒▒░░░░▓▓▓▓▒▒▒▒▒▓▓▓▓▓▓▓▓▓▓▓▓██████████████████
-█████████▒░░▒▓▓▒▒░░░░░░░░▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓██▓▓▓█████████████████
-█████████▓▒▓▓▓▓▓▓▓▓▓▓▒▒▓▓██████▓▓▓▓▓▓▓▓▓▓▓▓██████████████████████
-███████████▓██▓▓▓▓▓▓█████▓▓██████████████████████████████████████
-█████████████▓▓██████████████████████████████████████████████████
-</pre>
+<img src="./ascii-art.png" width="900" alt="Akshaj Khetarpal at MIT in ASCII art">
 
-# Akshaj Khetarpal
+<h1>Akshaj Khetarpal</h1>
 
-### Computer Science @ UMass Amherst
+<h3>Computer Science @ UMass Amherst</h3>
 
-**Economics — Secondary Major** · **International Relations — Certificate**
+<p>
+<b>Economics — Secondary Major</b>
+&nbsp; • &nbsp;
+<b>International Relations — Certificate</b>
+</p>
 
-Building at the intersection of **technology, AI, economics, business & geopolitics.**
+<p>
+Building at the intersection of <b>technology, AI, economics, business & geopolitics.</b>
+</p>
 
 </div>
 
@@ -44,17 +22,18 @@ Building at the intersection of **technology, AI, economics, business & geopolit
 
 <table>
 <tr>
+
 <td width="50%" valign="top">
 
 ## 👤 Profile
 
-🎓 **Computer Science**
+🎓 **Computer Science**  
 Primary major · UMass Amherst
 
-📈 **Economics**
+📈 **Economics**  
 Secondary major
 
-🌎 **International Relations**
+🌎 **International Relations**  
 Certificate
 
 🤖 **AI & Machine Learning**
@@ -69,23 +48,22 @@ Certificate
 
 <td width="50%" valign="top">
 
-## 📊 GitHub
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://img.shields.io/github/followers/akshajkhetarpal?label=Followers&style=for-the-badge&logo=github&labelColor=161b22" />
-
-<img src="https://img.shields.io/github/stars/akshajkhetarpal?affiliations=OWNER&label=Stars&style=for-the-badge&logo=github&labelColor=161b22" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=akshajkhetarpal&theme=github_dark" width="100%">
 
 <br><br>
 
-<a href="https://github.com/akshajkhetarpal?tab=repositories">
-<img src="https://img.shields.io/badge/Public%20Repositories-View%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+<img src="https://img.shields.io/github/followers/akshajkhetarpal?label=Followers&style=for-the-badge&logo=github&labelColor=161b22">
+
+<img src="https://img.shields.io/github/stars/akshajkhetarpal?affiliations=OWNER&label=Stars&style=for-the-badge&logo=github&labelColor=161b22">
 
 </div>
 
 </td>
+
 </tr>
 </table>
 
@@ -95,19 +73,41 @@ Certificate
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=akshajkhetarpal&theme=github-compact&hide_border=true&area=true&radius=8&custom_title=Contribution%20Activity" width="95%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=akshajkhetarpal&theme=github-compact&hide_border=true&area=true&radius=8&custom_title=Contribution%20Activity" width="95%">
 
 </div>
 
 ---
 
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
 ## 🔥 Contribution Streak
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=akshajkhetarpal&theme=github-dark-blue&hide_border=true" width="70%" />
+<img src="https://streak-stats.demolab.com?user=akshajkhetarpal&theme=github-dark-blue&hide_border=true" width="95%">
 
 </div>
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🧠 Language Distribution
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=akshajkhetarpal&theme=github_dark" width="95%">
+
+</div>
+
+</td>
+
+</tr>
+</table>
 
 ---
 
@@ -115,7 +115,7 @@ Certificate
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,react,nodejs,django,postgresql,git,github,docker&perline=12" width="720" />
+<img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,react,nodejs,django,postgresql,git,github,docker&perline=12" width="720">
 
 <br>
 
@@ -153,14 +153,14 @@ Environmental technology focused on using moss-based systems for air purificatio
 
 Worked with **PySpark** and large-scale recruitment datasets on supply-demand analysis, including:
 
-* Candidate activity
-* Job demand
-* Supply-demand segmentation
-* Location analysis
-* Department and role categories
-* Skills
-* Experience
-* CTC-band analysis
+- Candidate activity
+- Job demand
+- Supply-demand segmentation
+- Location analysis
+- Department and role categories
+- Skills
+- Experience
+- CTC-band analysis
 
 ---
 
@@ -168,7 +168,7 @@ Worked with **PySpark** and large-scale recruitment datasets on supply-demand an
 
 <!-- REPOSITORIES:START -->
 
-*Repositories will be populated automatically by GitHub Actions.*
+_Repositories will be populated automatically by GitHub Actions._
 
 <!-- REPOSITORIES:END -->
 
@@ -178,7 +178,7 @@ Worked with **PySpark** and large-scale recruitment datasets on supply-demand an
 
 ## 📚 Repository Languages
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=akshajkhetarpal&theme=github_dark" width="75%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=akshajkhetarpal&theme=github_dark" width="70%">
 
 </div>
 
@@ -189,7 +189,7 @@ Worked with **PySpark** and large-scale recruitment datasets on supply-demand an
 ## 🔗 Connect
 
 <a href="https://github.com/akshajkhetarpal">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 </div>
