@@ -24,7 +24,7 @@
 ██████████▓▓▓▓▓▓▓███▓▓▓▓▓▓▓█▓▓██▓█▓▓▓██████▒░░░▒░▒▓▓█████████████
 █████████▓▓▓▓▓▓▓▓▓██▓████▓▓█▓███▓█▓▓▓████▓░░░░░░░░░▒█████████████
 ██████████▒▒░░░░▒▓▓██████▓██▓█▒░░░░▓▓▓██▓░░░░▒██▓▓▓▓█████████████
-██████████░░░░░▒░░░▓▒▒░░░░▓▓▓▓▒▒▒▒▒▓▓▓▓▓▓▓▓▓▓▓▓██████████████████
+██████████░░░░░░░▓▒▒░░░░▓▓▓▓▒▒▒▒▒▓▓▓▓▓▓▓▓▓▓▓▓██████████████████
 █████████▒░░▒▓▓▒▒░░░░░░░░▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓██▓▓▓█████████████████
 █████████▓▒▓▓▓▓▓▓▓▓▓▓▒▒▓▓██████▓▓▓▓▓▓▓▓▓▓▓▓██████████████████████
 ███████████▓██▓▓▓▓▓▓█████▓▓██████████████████████████████████████
@@ -58,11 +58,13 @@ Secondary major
 🌎 **International Relations**
 Certificate
 
-🤖 **AI / Machine Learning**
+🤖 **AI & Machine Learning**
+
+📊 **Data Engineering & Analytics**
 
 🚀 **Startups & Product Development**
 
-💻 **Software Engineering & Data**
+💻 **Software Engineering**
 
 </td>
 
@@ -122,15 +124,23 @@ Certificate
 
 ---
 
-## 🛠️ Technologies & Topics
+## 🛠️ Technologies
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,react,nodejs,django,postgresql,git,github,docker&perline=11" />
+<img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,react,nodejs,django,postgresql,git,github,docker&perline=12" width="720" />
 
-<br><br>
+<p>
+Python · Java · C++ · JavaScript · TypeScript · React · Node.js · Django · PostgreSQL · Git · GitHub · Docker
+</p>
 
-`Artificial Intelligence` · `Machine Learning` · `Data Engineering` · `Software Engineering` · `Startups` · `Economics` · `International Relations`
+<p>
+<b>Data & Python:</b> NumPy · pandas · PySpark · PyArrow · scikit-learn · Matplotlib
+</p>
+
+<p>
+<b>Areas:</b> Artificial Intelligence · Machine Learning · Data Engineering · Software Engineering · Quantitative Methods · Economics · International Relations
+</p>
 
 </div>
 
@@ -144,15 +154,13 @@ Certificate
 
 Environmental technology focused on using moss-based systems for air purification.
 
-[View Moss-X →](https://github.com/akshajkhetarpal)
-
 ---
 
 ## 💼 Experience
 
 ### ML / Data Engineering Intern — InfoEdge / Naukri
 
-Worked with **PySpark** and large-scale recruitment datasets on supply-demand analysis, including candidate activity, job demand, segmentation, location and CTC-band analysis.
+Worked with **PySpark** and large-scale recruitment datasets on supply-demand analysis, including candidate activity, job demand, segmentation, location, experience, skills, role categories and CTC-band analysis.
 
 ---
 
@@ -200,7 +208,7 @@ Worked with **PySpark** and large-scale recruitment datasets on supply-demand an
 
 <div align="center">
 
-### Connect
+## 🔗 Connect
 
 <a href="https://github.com/akshajkhetarpal">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -212,6 +220,6 @@ Worked with **PySpark** and large-scale recruitment datasets on supply-demand an
 
 <div align="center">
 
-<sub>Computer Science · Economics · International Relations · AI · Technology</sub>
+<sub>Computer Science · Economics · International Relations · AI · Data · Technology</sub>
 
 </div>
