@@ -162,7 +162,19 @@ Worked with **PySpark** and large-scale recruitment datasets on supply-demand an
 
 <!-- REPOSITORIES:START -->
 
-_Repositories will be populated automatically by GitHub Actions._
+### [coffee-quality-data-analysis](https://github.com/AkshajKhetarpal/coffee-quality-data-analysis)
+
+Python data analysis project using Pandas and Matplotlib to analyze coffee quality datasets.
+
+`Various` · ⭐ 0 · 🍴 0
+
+---
+
+### [Cricket-Analysis-Asia-Cup](https://github.com/AkshajKhetarpal/Cricket-Analysis-Asia-Cup)
+
+Python OOP application for searching Asia Cup cricket statistics using CSV datasets.
+
+`Python` · ⭐ 0 · 🍴 0
 
 <!-- REPOSITORIES:END -->
 
