@@ -6,7 +6,6 @@
 █████████████████████████████████████████████████████████████████
 █████████████████████████████████████████████████████████████████
 █████████████████████████████████████████████████████████████████
-█████████████████████████████████████████████████████████████████
 ████████████████████████▓▒▒▓▓░▓▓▒▒▓██████████████████████████████
 ███████████████████████▓▒░░▒░░▒▓▒▒▓▓▓▓███████████████████████████
 ███████████████████████▓░▒▓▒▒▓▓█▓▓▓▓█████████████████████████████
@@ -37,7 +36,7 @@
 
 **Economics — Secondary Major** · **International Relations — Certificate**
 
-Building at the intersection of **technology, AI, business & geopolitics.**
+Building at the intersection of **technology, AI, economics, business & geopolitics.**
 
 </div>
 
@@ -50,7 +49,7 @@ Building at the intersection of **technology, AI, business & geopolitics.**
 ## 👤 Profile
 
 🎓 **Computer Science**
-Primary major at UMass Amherst
+Primary major · UMass Amherst
 
 📈 **Economics**
 Secondary major
@@ -70,11 +69,19 @@ Certificate
 
 <td width="50%" valign="top">
 
-## 📊 GitHub Overview
+## 📊 GitHub
 
-<a href="https://github.com/akshajkhetarpal">
-<img src="https://github-readme-stats.vercel.app/api?username=akshajkhetarpal&show_icons=true&include_all_commits=true&count_private=false&rank_icon=github&theme=github_dark&hide_border=true&custom_title=GitHub%20Stats" />
-</a>
+<div align="center">
+
+<img src="https://img.shields.io/github/followers/akshajkhetarpal?label=Followers&style=for-the-badge&logo=github&labelColor=161b22" />
+<img src="https://img.shields.io/github/stars/akshajkhetarpal?affiliations=OWNER&label=Stars&style=for-the-badge&logo=github&labelColor=161b22" />
+
+<br><br>
+
+<img src="https://img.shields.io/github/repos/akshajkhetarpal?label=Public%20Repos&style=for-the-badge&logo=github&labelColor=161b22" />
+<img src="https://img.shields.io/github/last-commit/akshajkhetarpal/akshajkhetarpal?label=Last%20Update&style=for-the-badge&logo=github&labelColor=161b22" />
+
+</div>
 
 </td>
 </tr>
@@ -82,13 +89,11 @@ Certificate
 
 ---
 
-## 📈 Coding Activity
+## 📈 Contribution Activity
 
 <div align="center">
 
-<a href="https://github.com/akshajkhetarpal">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=akshajkhetarpal&theme=github-compact&hide_border=true&area=true&radius=8&custom_title=Coding%20Activity" width="95%" />
-</a>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=akshajkhetarpal&theme=github-compact&hide_border=true&area=true&radius=8&custom_title=Contribution%20Activity" width="95%" />
 
 </div>
 
@@ -102,7 +107,7 @@ Certificate
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=akshajkhetarpal&theme=github-dark-blue&hide_border=true" width="100%" />
+<img src="https://streak-stats.demolab.com?user=akshajkhetarpal&theme=github-dark-blue&hide_border=true" width="95%" />
 
 </div>
 
@@ -110,11 +115,11 @@ Certificate
 
 <td width="50%" valign="top">
 
-## 🧠 Most Used Languages
+## 🧠 Language Distribution
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshajkhetarpal&layout=donut&langs_count=8&theme=github_dark&hide_border=true" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshajkhetarpal&layout=donut&langs_count=8&theme=github_dark&hide_border=true" width="95%" />
 
 </div>
 
@@ -130,17 +135,21 @@ Certificate
 
 <img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,react,nodejs,django,postgresql,git,github,docker&perline=12" width="720" />
 
-<p>
+<br>
+
 Python · Java · C++ · JavaScript · TypeScript · React · Node.js · Django · PostgreSQL · Git · GitHub · Docker
-</p>
 
-<p>
-<b>Data & Python:</b> NumPy · pandas · PySpark · PyArrow · scikit-learn · Matplotlib
-</p>
+<br><br>
 
-<p>
-<b>Areas:</b> Artificial Intelligence · Machine Learning · Data Engineering · Software Engineering · Quantitative Methods · Economics · International Relations
-</p>
+<b>Python / Data:</b>
+
+NumPy · pandas · PySpark · PyArrow · scikit-learn · Matplotlib
+
+<br><br>
+
+<b>Areas:</b>
+
+Artificial Intelligence · Machine Learning · Data Engineering · Software Engineering · Quantitative Methods · Economics · International Relations
 
 </div>
 
@@ -160,7 +169,16 @@ Environmental technology focused on using moss-based systems for air purificatio
 
 ### ML / Data Engineering Intern — InfoEdge / Naukri
 
-Worked with **PySpark** and large-scale recruitment datasets on supply-demand analysis, including candidate activity, job demand, segmentation, location, experience, skills, role categories and CTC-band analysis.
+Worked with **PySpark** and large-scale recruitment datasets on supply-demand analysis, including:
+
+* Candidate activity
+* Job demand
+* Supply-demand segmentation
+* Location analysis
+* Department and role categories
+* Skills
+* Experience
+* CTC-band analysis
 
 ---
 
@@ -168,27 +186,15 @@ Worked with **PySpark** and large-scale recruitment datasets on supply-demand an
 
 <!-- REPOSITORIES:START -->
 
-### [coffee-quality-data-analysis](https://github.com/AkshajKhetarpal/coffee-quality-data-analysis)
-
-Python data analysis project using Pandas and Matplotlib to analyze coffee quality datasets.
-
-`Various` · ⭐ 0 · 🍴 0
-
----
-
-### [Cricket-Analysis-Asia-Cup](https://github.com/AkshajKhetarpal/Cricket-Analysis-Asia-Cup)
-
-Python OOP application for searching Asia Cup cricket statistics using CSV datasets.
-
-`Python` · ⭐ 0 · 🍴 0
+*Repositories will be populated automatically by GitHub Actions.*
 
 <!-- REPOSITORIES:END -->
 
 ---
 
-<div align="center">
-
 ## 📚 Repository Languages
+
+<div align="center">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=akshajkhetarpal&theme=github_dark" width="70%" />
 
@@ -196,19 +202,9 @@ Python OOP application for searching Asia Cup cricket statistics using CSV datas
 
 ---
 
-## 📌 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=akshajkhetarpal&theme=github-compact&hide_border=true&area=true&radius=8&custom_title=Contribution%20Activity" width="95%" />
-
-</div>
-
----
-
-<div align="center">
-
 ## 🔗 Connect
+
+<div align="center">
 
 <a href="https://github.com/akshajkhetarpal">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -216,10 +212,12 @@ Python OOP application for searching Asia Cup cricket statistics using CSV datas
 
 </div>
 
-<br>
+---
 
 <div align="center">
 
-<sub>Computer Science · Economics · International Relations · AI · Data · Technology</sub>
+<sub>
+Computer Science · Economics · International Relations · AI · Data · Technology
+</sub>
 
 </div>
