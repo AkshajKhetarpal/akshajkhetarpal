@@ -168,7 +168,9 @@ Worked with **PySpark** and large-scale recruitment datasets on supply-demand an
 
 <!-- REPOSITORIES:START -->
 
-*Repositories will be populated automatically by GitHub Actions.*
+<a href="https://github.com/akshajkhetarpal/coffee-quality-data-analysis"><img src="https://github-readme-stats.vercel.app/api/pin/?username=akshajkhetarpal&repo=coffee-quality-data-analysis&theme=github_dark&hide_border=true" width="48%" /></a>
+
+<a href="https://github.com/akshajkhetarpal/Cricket-Analysis-Asia-Cup"><img src="https://github-readme-stats.vercel.app/api/pin/?username=akshajkhetarpal&repo=Cricket-Analysis-Asia-Cup&theme=github_dark&hide_border=true" width="48%" /></a>
 
 <!-- REPOSITORIES:END -->
 
