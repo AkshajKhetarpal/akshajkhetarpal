@@ -52,13 +52,7 @@ Certificate
 
 <div align="center">
 
-<img src="./profile-summary-card-output/github_dark/3-stats.svg" width="100%">
-
-<br><br>
-
-<img src="https://img.shields.io/github/followers/akshajkhetarpal?label=Followers&style=for-the-badge&logo=github&labelColor=161b22">
-
-<img src="https://img.shields.io/github/stars/akshajkhetarpal?affiliations=OWNER&label=Stars&style=for-the-badge&logo=github&labelColor=161b22">
+<img src="./assets/overview.dark.svg" width="100%" alt="GitHub statistics">
 
 </div>
 
@@ -73,7 +67,7 @@ Certificate
 
 <div align="center">
 
-<img src="./profile-summary-card-output/github_dark/1-profile-details.svg" width="80%" alt="GitHub contribution activity">
+<img src="./assets/lifetime.dark.svg" width="82%" alt="GitHub contribution activity">
 
 </div>
 
@@ -88,7 +82,7 @@ Certificate
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=akshajkhetarpal&theme=github-dark-blue&hide_border=true" width="90%">
+<img src="./assets/contributions.dark.svg" width="90%" alt="GitHub contribution streak">
 
 </div>
 
@@ -100,7 +94,7 @@ Certificate
 
 <div align="center">
 
-<img src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" width="90%" alt="GitHub language distribution">
+<img src="./assets/languages.dark.svg" width="90%" alt="GitHub language distribution">
 
 </div>
 
@@ -171,16 +165,6 @@ Worked with **PySpark** and large-scale recruitment datasets on supply-demand an
 _Repositories will be populated automatically by GitHub Actions._
 
 <!-- REPOSITORIES:END -->
-
----
-
-<div align="center">
-
-## 📚 Repository Languages
-
-<img src="./profile-summary-card-output/github_dark/2-repos-per-language.svg" width="70%" alt="Repository languages">
-
-</div>
 
 ---
 
